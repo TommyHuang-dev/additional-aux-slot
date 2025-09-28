@@ -41,7 +41,7 @@ ship_section_template = {
 	}
 
 	small_utility_slots = 2
-	aux_utility_slots = 1
+	aux_utility_slots = 2 # increased from 1 to 2
 
 	resources = {
 		category = ship_sections
@@ -91,7 +91,7 @@ ship_section_template = {
 	}
 
 	small_utility_slots = 2
-	aux_utility_slots = 1
+	aux_utility_slots = 2 # increased from 1 to 2
 
 	resources = {
 		category = ship_sections
@@ -151,7 +151,7 @@ ship_section_template = {
 	}
 
 	small_utility_slots = 4
-	aux_utility_slots = 1
+	aux_utility_slots = 2 # increased from 1 to 2
 
 	resources = {
 		category = ship_sections
@@ -207,7 +207,7 @@ ship_section_template = {
 	}
 
 	small_utility_slots = 4
-	aux_utility_slots = 1
+	aux_utility_slots = 2 # increased from 1 to 2
 
 	resources = {
 		category = ship_sections
@@ -273,7 +273,7 @@ ship_section_template = {
 	}
 
 	small_utility_slots = 6
-	aux_utility_slots = 2
+	aux_utility_slots = 2 # increased from 1 to 2
 
 	resources = {
 		category = ship_sections
@@ -335,7 +335,7 @@ ship_section_template = {
 	}
 
 	small_utility_slots = 6
-	aux_utility_slots = 2
+	aux_utility_slots = 2 # increased from 1 to 2
 
 	resources = {
 		category = ship_sections
@@ -403,7 +403,7 @@ ship_section_template = {
 	}
 
 	small_utility_slots = 8
-	aux_utility_slots = 2
+	aux_utility_slots = 2 # increased from 1 to 2
 
 	resources = {
 		category = ship_sections
